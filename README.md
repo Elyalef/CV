@@ -1,10 +1,11 @@
-# CV Elya Lefebvre
+layout : CV
+title : Elya Lefebvre's CV
 
 ---
+# Elya Lefebvre
+Étudiante
 
-## 📷 Photo
-
-![Photo](/Users/lefebvreelya/Desktop/photo Elya.docx)
+![Image](https://i.postimg.cc/zG07f2Tp/temp-Image-S3-YWKc.avif)
 
 ---
 ## Coordonées 
